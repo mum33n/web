@@ -82,7 +82,7 @@ body{
         background-color: black;
     }
     footer{
-        position:static;
+        position:relative;
     }
 }
 /*navbar ends*/
